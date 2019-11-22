@@ -1,0 +1,4 @@
+resources:
+- ../../cr-etcd-ha.yaml
+patchesStrategicMerge:
+- cr-etcd-ha-ci.yaml
